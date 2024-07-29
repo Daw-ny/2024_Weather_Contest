@@ -17,8 +17,8 @@
   </tr>
   <tr>
     <td> <div align=center> <b>김다운</b> </div> </td>
-    <td> <div align=center> <b>서상혁</b> </div> </td>
     <td> <div align=center> <b>신동혁</b> </div> </td>
+    <td> <div align=center> <b>서상혁</b> </div> </td>
   </tr>
   <tr>
     <td> <img alt="Github" src ="https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/0f945311-9828-4e50-a60c-fc4db3fa3b9d"  width="250"  height="300"/>  </td>
